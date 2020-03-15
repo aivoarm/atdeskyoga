@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    
+    <title>At Desk Yoga</title>
+    <link rel="manifest" href="manifest.json" />
+
+    <base href="/" />
+
+    <meta
+      name="viewport"
+      content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="msapplication-tap-highlight" content="no" />
+
+    <meta http-equiv="etag" content="2efdc27c8967f14e2c829e601f7a1228"/>
+    <meta property="og:title" content="At Desk Yoga"/>
+    <meta property="og:type" content="App"/>
+    <meta property="og:url" content="http://www.atdeskyoga.com"/>
+    <meta property="og:image" content="%PUBLIC_URL%/assets/img/bg-img/fa.jpg"/>
+    <meta property="og:site_name" content="At Desk Yoga"/>
+    <meta property="og:description" content="Application to follow your yoga guru everywhere"/>
+
+
+    <link rel="shortcut icon" type="image/png" href="%PUBLIC_URL%/assets/icon/favicon.ico" />
+
+    <!-- add to homescreen for ios -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Yoga App" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  </head>
+  
+  <body>
+
+      <div class="preloader d-flex align-items-center justify-content-center">
+          <div class="lds-ellipsis">
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+          </div>
+      </div>
+
+     
+
+
+    <div id="root"></div>
+
+    <script>
+      if ('serviceWorker' in navigator) {
+         console.log("Will the service worker register?");
+         navigator.serviceWorker.register('service-worker.js')
+           .then(function(reg){
+             console.log("Yes, it did.");
+          }).catch(function(err) {
+             console.log("No it didn't. This happened:", err)
+         });
+      }
+     </script>
+
+        <!-- ##### All Javascript Script ##### -->
+     
+   
+   
+  </body>  
+
+</html>

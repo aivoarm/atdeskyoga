@@ -1,0 +1,135 @@
+[{
+  "id": 1,
+  "dateTimeStart": "2047-05-17T09:00",
+  "dateTimeEnd": "2047-05-17T09:00",
+  "name": "Shavasana",
+  "location": "Anne-Marie",
+  "description": "Shavasana (shah-VAH-sah-nah or shih-VAH-snah) Savasana is likely the first Sanskrit word learned by yoga students, and it often quickly becomes their favourite. It brings with it images of calmness, rest and relaxation, of drifting away, and sometimes even napping, as a well-exercised body and relaxed mind settle into the mat at the end of a practice.",
+  "speakerIds": [1],
+  "tracks": ["Sivananda"],
+  "image":"/assets/img/bg-img/fa.jpg",
+  "audio":"/assets/audio/Shivasana AM.mp3"
+
+}, {
+  "id": 2,
+  "dateTimeStart": "2047-05-17T09:00",
+  "dateTimeEnd": "2047-05-17T09:00",
+  "name": "Vishnu mudra",
+  "location": "Anne-Marie",
+  "description": "Vishnu mudra. Anne-Marie Bouin by Anne-Marie Bouin",
+  "speakerIds": [1],
+  "tracks": ["Sivananda"],
+  "image":"/assets/img/bg-img/Vishnu mudra.png",
+  "audio":"/assets/audio/Chin Mudra AM.mp3"
+}, {
+  "id": 3,
+  "dateTimeStart": "2047-05-17T09:30",
+  "dateTimeEnd": "2047-05-17T09:45",
+  "name": "Kapalabhati",
+  "location": "Anne-Marie",
+  "description": "Kapalabhati, also called breath of fire, is an important Shatkarma, a purification in hatha yoga. The word kapalabhati is made up of two Sanskrit words: kapāla meaning 'skull', and bhāti meaning 'shining, illuminating'. One should know how to do Kapalabhati Pranayama in a proper manner",
+  "speakerIds": [1],
+  "tracks": ["Sivananda"],
+  "image":"/assets/img/bg-img/kb.png",
+  "audio":"/assets/audio/kapalabhati-breath.mp3"
+}, {
+  "id": 4,
+  "dateTimeStart": "2047-05-17T09:45",
+  "dateTimeEnd": "2047-05-17T10:00",
+  "name": "Surya Namaskar",
+  "location": "Anne-Marie",
+  "description": "Surya Namaskar, Salute to the Sun or Sun Salutation, is a practice in yoga as exercise incorporating a sequence of some twelve gracefully linked asanas. The asana sequence was first recorded as yoga in the early 20th century, though similar exercises were in use in India before that, for example among wrestlers",
+  "speakerIds": [1],
+  "tracks": ["Sivananda"],
+  "image":"/assets/img/bg-img/sans.gif",
+  "audio":"/assets/audio/Surya Namaskār .mp3"
+}, {
+  "id": 5,
+  "dateTimeStart": "2057-05-17T09:45",
+  "dateTimeEnd": "2057-05-17T10:00",
+  "name": "Relax",
+  "location": "CAROLE MORENCY  ",
+  "description": "Relaxing excersis",
+  "speakerIds": [2],
+  "tracks": ["Chair yoga"],
+  "image":"/assets/img/bg-img/fa.jpg",
+  "audio":"/assets/audio/Relax.mp3"
+}, {
+  "id": 6,
+  "dateTimeStart": "2057-05-17T09:45",
+  "dateTimeEnd": "2057-05-17T10:00",
+  "name": "Breath",
+  "location": "CAROLE MORENCY  ",
+  "description": "Breating excersis",
+  "speakerIds": [2],
+  "tracks": ["Chair yoga"],
+  "image":"/assets/img/bg-img/fa.jpg",
+  "audio":"/assets/audio/Breath.mp3"
+}, {
+  "id": 7,
+  "dateTimeStart": "2057-05-17T09:45",
+  "dateTimeEnd": "2057-05-17T10:00",
+   "name": "Eyes",
+  "location": "CAROLE MORENCY  ",
+  "description": "Eyes excersis",
+  "speakerIds": [2],
+  "tracks": ["Chair yoga"],
+  "image":"/assets/img/bg-img/fa.jpg",
+  "audio":"/assets/audio/Eyes.mp3"
+}, {
+  "id": 8,
+  "dateTimeStart": "2057-05-17T09:45",
+  "dateTimeEnd": "2057-05-17T10:00",
+  "name": "Neck",
+  "location": "CAROLE MORENCY  ",
+  "description": "Neck excersis",
+  "speakerIds": [2],
+  "tracks": ["Chair yoga"],
+  "image":"/assets/img/bg-img/fa.jpg",
+  "audio":"/assets/audio/Neck.mp3"
+}, {
+  "id": 9,
+  "dateTimeStart": "2057-05-17T09:45",
+  "dateTimeEnd": "2057-05-17T10:00",
+  "name": "Sholders",
+  "location": "CAROLE MORENCY  ",
+  "description": "Sholders excersis",
+  "speakerIds": [2],
+  "tracks": ["Chair yoga"],
+  "image":"/assets/img/bg-img/fa.jpg",
+  "audio":"/assets/audio/Sholders.mp3"
+}, {
+  "id": 10,
+  "dateTimeStart": "2057-05-17T09:45",
+  "dateTimeEnd": "2057-05-17T10:00",
+  "name": "Hands",
+  "location": "CAROLE MORENCY  ",
+  "description": "Hands excersis",
+  "speakerIds": [2],
+  "tracks": ["Chair yoga"],
+  "image":"/assets/img/bg-img/fa.jpg",
+  "audio":"/assets/audio/hands.mp3"
+}, {
+  "id": 11,
+  "dateTimeStart": "2057-05-17T09:45",
+  "dateTimeEnd": "2057-05-17T10:00",
+  "name": "Legs",
+  "location": "CAROLE MORENCY  ",
+  "description": "Legs excersis",
+  "speakerIds": [2],
+  "tracks": ["Chair yoga"],
+  "image":"/assets/img/bg-img/fa.jpg",
+  "audio":"/assets/audio/Legs.mp3"
+}, 
+{
+  "id": 11,
+  "dateTimeStart": "2057-05-17T09:45",
+  "dateTimeEnd": "2057-05-17T10:00",
+  "name": "Salutation Soleil",
+  "location": "CAROLE MORENCY  ",
+  "description": "Salutation Soleil excersis",
+  "speakerIds": [2],
+  "tracks": ["Chair yoga"],
+  "image":"/assets/img/bg-img/fa.jpg",
+  "audio":"/assets/audio/SalutationSoleil.mp3"
+}]

@@ -1,0 +1,7 @@
+{ "id": "atdeskyoga",
+  "name": "ionic-react-yoga-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
