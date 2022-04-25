@@ -19,7 +19,7 @@
     "firebase": "^7.11.0",
     "ionicons": "^4.6.3",
     "mobiscroll-react": "^4.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "^16.9.0",
     "react-add-to-homescreen": "^1.1.0",
     "react-dom": "^16.9.0",
